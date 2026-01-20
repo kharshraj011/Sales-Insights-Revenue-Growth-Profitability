@@ -1,35 +1,28 @@
-# Sales-Insights-Revenue-Growth-Profitability
-# Sales Insights: Revenue, Growth & Profitability
+# Sales Insights Dashboard
 
-## 📊 Project Overview
-This dashboard analyzes sales performance across regions, products, and time periods.
-It helps stakeholders track revenue, growth trends, and profitability.
+## About the Project
+This dashboard shows sales performance and profitability across time, regions, and products.
+The goal was to understand what is selling well and where profit can be improved.
 
-## 🎯 Business Problem
-Businesses need visibility into:
-- Which regions and products drive revenue
-- How sales are trending over time
-- Where profitability can be improved
+## What I Analyzed
+- Total sales and profit
+- Sales trends over time
+- Product and region performance
+- Profit margin
 
-## 📈 KPIs & Metrics
-- Total Sales
-- Total Profit
-- Profit Margin
-- Year-over-Year Growth
-- Sales by Region and Product
-
-## 🛠 Tools & Skills Used
+## Tools Used
 - Power BI
-- DAX (Measures & Calculations)
+- Excel
+- DAX
 - Power Query
-- Data Visualization
 
-## 🔍 Key Insights
-- A small number of products generated most of the revenue
-- Some regions had high sales but low profit margins
-- Seasonal sales patterns were identified
+## Key Learnings
+- A few products generate most of the sales
+- Some regions have good sales but low profit
+- Sales show
 
-## 📂 Files Included
+  ##  Files Included
 - Power BI Dashboard (.pbix)
-- Dataset 
+- Dataset
 - Dashboard screenshots
+
